@@ -1,0 +1,4 @@
+$kind: http-request
+url: "{{base_url}}/api/auth/register"
+method: GET
+order: 1781435337200

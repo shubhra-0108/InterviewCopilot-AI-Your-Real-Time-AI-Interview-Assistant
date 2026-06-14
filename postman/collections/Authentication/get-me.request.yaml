@@ -1,0 +1,4 @@
+$kind: http-request
+url: "{{base_url}}/api/auth/get-me"
+method: GET
+order: 3618866790268717
